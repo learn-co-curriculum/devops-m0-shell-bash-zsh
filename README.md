@@ -1,4 +1,4 @@
-# `sh`, `bash`, `zsh`
+# Shells Configuration and Environment Variables
 
 ## Learning goals
 

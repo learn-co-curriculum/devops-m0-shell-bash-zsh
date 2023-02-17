@@ -62,4 +62,4 @@ export PATH="/path/to/directory:$PATH"
 
 ## Conclusion
 
-Understanding how `PATH` and environment variables work is crucial for a lot of the software development process, especially when it comes to automating development and deployment. While some of the other uses for environment variables might seem a bit unclear right now, you will gain insight as to how useful they are in the upcoming modules.
+Understanding how `PATH` and environment variables work is crucial for a lot of the software development process, especially when it comes to automating development and deployment. While some of the other uses for environment variables might seem a bit unclear right now, you will gain insight as to how useful they are in the upcoming modules. 

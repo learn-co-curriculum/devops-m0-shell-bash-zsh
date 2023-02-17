@@ -1,4 +1,4 @@
-# Shells Configuration and Environment Variables
+# Shells, Configuration, and Environment Variables
 
 ## Learning goals
 
